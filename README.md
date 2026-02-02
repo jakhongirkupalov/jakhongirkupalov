@@ -48,12 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakhongirkupalov&layout=compact&theme=tokyonight" width="50%" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jakhongirkupalov&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
 ## 📫 Connect with Me
 
 <div align="center">
