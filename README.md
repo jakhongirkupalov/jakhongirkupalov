@@ -3,9 +3,9 @@
   <img src="https://avatars.githubusercontent.com/jakhongirkupalov" width="150px" style="border-radius: 50%;">
 </div>
   
-  # Hey 👋, I'm Jakhongir Kupalov!
+                            # Hey 👋, I'm Jakhongir Kupalov!
   
-  ### AI Engineer | Python | ML | MS SQL Server
+                        ### AI Engineer | Python | ML | MS SQL Server
   
   <img src="https://komarev.com/ghpvc/?username=jakhongirkupalov&label=Profile%20views&color=0e75b6&style=flat" />
   
