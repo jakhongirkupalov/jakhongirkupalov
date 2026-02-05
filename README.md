@@ -52,9 +52,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
   ### ⭐️ From [Jakhongir](https://github.com/jakhongirkupalov)
-## 📊 GitHub Stats
 
-![Snake animation](https://raw.githubusercontent.com/jakhongirkupalov/jakhongirkupalov/output/github-contribution-grid-snake.svg)
 
 ## 📊 Contribution Graph
 
