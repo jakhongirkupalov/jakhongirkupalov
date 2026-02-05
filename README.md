@@ -63,6 +63,5 @@
   
   ### ⭐️ From [Jakhongir](https://github.com/jakhongirkupalov)
   
-  ![Snake animation](https://github.com/jakhongirkupalov/jakhongirkupalov/blob/output/github-contribution-grid-snake.svg)
-  
+![Snake animation](https://raw.githubusercontent.com/jakhongirkupalov/jakhongirkupalov/output/github-contribution-grid-snake.svg)  
 </div>
