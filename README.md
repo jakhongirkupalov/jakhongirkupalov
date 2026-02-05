@@ -37,16 +37,7 @@
 - 📫 Reach me: **@jakhongir_kupalov** (Telegram)
 - ⚡ Fun fact: **If not me, who? If not now, when?**
 
-## 📊 GitHub Stats
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=jakhongirkupalov&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakhongirkupalov&theme=tokyonight" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakhongirkupalov&layout=compact&theme=tokyonight" width="50%" />
-</div>
 
 ## 📫 Connect with Me
 
