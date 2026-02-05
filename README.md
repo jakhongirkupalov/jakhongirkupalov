@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   <img src="https://avatars.githubusercontent.com/jakhongirkupalov" width="150px" style="border-radius: 50%;">
-  # Hey 👋, I'm Jakhongir Kupalov!
   
+  ## Hey 👋, I'm Jakhongir Kupalov!
   ### AI Engineer | Python | ML | MS SQL Server
   
   
