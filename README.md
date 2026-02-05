@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-  <img src="https://avatars.githubusercontent.com/u/yourimage" width="150px" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/jakhongirkupalov" width="150px" style="border-radius: 50%;">
+</div>
   
   # Hey 👋, I'm Jakhongir Kupalov!
   
