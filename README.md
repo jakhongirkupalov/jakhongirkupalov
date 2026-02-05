@@ -34,7 +34,7 @@
 - 🌱 Learning **AI and Cloud Technologies**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, MS SQL, ML**
-- 📫 Reach me: **@Jakhongir_kupalov** (Telegram)
+- 📫 Reach me: **@jakhongir_kupalov** (Telegram)
 - ⚡ Fun fact: **If not me, who? If not now, when?**
 
 ## 📊 GitHub Stats
