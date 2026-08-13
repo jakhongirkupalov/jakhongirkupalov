@@ -22,7 +22,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white))
+![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
@@ -32,7 +32,7 @@
 - 🔭 Currently working on **Machine Learning Development**
 - 🌱 Learning **AI and Cloud Technologies**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, MS SQL, ML**
+- 💬 Ask me about **Python, MS SQL Server, ML, DL, TensorFlow, PyTorch**
 - 📫 Reach me: **@jakhongir_kupalov** (Telegram)
 - ⚡ Fun fact: **If not me, who? If not now, when?**
 
