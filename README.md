@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/jakhongirkupalov" width="150px" style="border-radius: 50%;">
   
   ## Hey 👋, I'm Jakhongir Kupalov!
-  ### AI Engineering | Python | ML | MS SQL Server
+  ### AI Engineering | ML | DL | Python | MS SQL Server
   
   
   <img src="https://komarev.com/ghpvc/?username=jakhongirkupalov&label=Profile%20views&color=0e75b6&style=flat" />
@@ -22,8 +22,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
+![MS SQL Server](![MS SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white))
+![Deep Learning](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
