@@ -35,7 +35,7 @@
 
 - 🔭 Currently working on **Machine Learning Development**
 - 🌱 Learning **AI and Cloud Technologies**
-- 👯 Looking to collaborate on **Open Source Projects**
+- 👯 Looking to collaborate on Open Source Projects (AI/ML, Python, Deep Learning)
 - 💬 Ask me about **Python, MS SQL Server, ML, DL, TensorFlow, PyTorch**
 - 📫 Reach me: **@jakhongir_kupalov** (Telegram)
 - ⚡ Fun fact: **If not me, who? If not now, when?**
